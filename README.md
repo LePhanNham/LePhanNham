@@ -51,10 +51,8 @@
 <p align="center">🎮 ━━━━━━ 📊 ━━━━━━ 🎮</p>
 
 <!-- ===================== GAME DEV STATS ===================== -->
-<h2 align="center">🧠 Game Dev Focused Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LePhanNham&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LePhanNham&show_icons=true&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
@@ -62,15 +60,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LePhanNham&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=LePhanNham&theme=radical&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main%20Focus-Unity%20%26%20C%23-6A00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Commits-Gameplay%20%2B%20Systems-6A00FF?style=for-the-badge"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=LePhanNham&theme=react-dark&hide_border=true" />
 </p>
 
-<p align="center">🧩 ━━━━━━ 📈 ━━━━━━ 🧩</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LePhanNham&theme=radical&no-frame=true&row=1&column=4" />
+</p>
 
 <!-- ===================== ACTIVITY ===================== -->
 <h2 align="center">📈 Contribution Activity</h2>
@@ -81,14 +80,15 @@
 
 <p align="center">🏆 ━━━━━━ 🏆 ━━━━━━ 🏆</p>
 
-<!-- ===================== TROPHIES ===================== -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- ===================== HIGHLIGHTS ===================== -->
+<h2 align="center">🏆 GitHub Highlights</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LePhanNham&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Focus-Unity%20%26%20C%23-6A00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Game%20Dev-Gameplay%20Systems-6A00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-FSM%20%7C%20Behavior%20Tree-6A00FF?style=for-the-badge"/>
 </p>
 
-<!-- ===================== FOOTER ===================== -->
 <p align="center">
   🎮 Game Developer • 🧠 System Thinker • ⚙️ Unity Engineer
 </p>
